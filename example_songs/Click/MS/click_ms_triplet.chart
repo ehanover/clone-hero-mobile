@@ -1,0 +1,35 @@
+﻿[Song]
+{
+  Name = "click_ms_triplet"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "rock"
+  MediaType = "cd"
+  MusicStream = "D:\Ethan\Py\Guitar Hero copy\Songs\Click\song.ogg"
+  GuitarStream = "D:\Ethan\Py\Guitar Hero copy\Songs\Click\song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 60000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+  0 = N 0 0
+  64 = N 0 0
+  128 = N 0 0
+  192 = N 2 0
+  256 = N 2 0
+  320 = N 2 0
+  384 = N 0 0
+  384 = N 1 0
+  384 = N 3 0
+  384 = N 4 0
+}

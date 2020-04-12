@@ -1,0 +1,33 @@
+﻿[Song]
+{
+  Name = "click_ms_double"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "rock"
+  MediaType = "cd"
+  MusicStream = "D:\Ethan\Py\Guitar Hero copy\Songs\Click\song.ogg"
+  GuitarStream = "D:\Ethan\Py\Guitar Hero copy\Songs\Click\song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 60000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+  0 = N 0 0
+  96 = N 0 0
+  192 = N 1 0
+  288 = N 1 0
+  384 = N 2 0
+  480 = N 2 0
+  576 = N 3 0
+  672 = N 3 0
+}
